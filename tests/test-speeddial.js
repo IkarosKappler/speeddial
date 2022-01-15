@@ -1,11 +1,7 @@
 /**
-
  * @author  Ikaros Kappler
-
  * @date    2021-12-08
-
  * @version 1.0.0
-
  */
 
 window.addEventListener("load", function () {
